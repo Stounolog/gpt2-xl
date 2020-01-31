@@ -1,4 +1,7 @@
 {
+  "architectures": [
+    "GPT2LMHeadModel"
+  ],
   "attn_pdrop": 0.1,
   "embd_pdrop": 0.1,
   "finetuning_task": null,
